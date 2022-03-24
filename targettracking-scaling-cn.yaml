@@ -16,7 +16,7 @@ Parameters:
     Default: 32
   KDAParallelism:
     Type: String
-    Description: Desired parallelism
+    Description: Initial parallelism
     Default: 1
 
 
