@@ -18,13 +18,13 @@
 •	Kinesis Data Stream: 测试使用，将数据输入到KDA中进行分析，从而提升CPU 使用率。
 
 自动扩展架构如下图：
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/walkingerica/awscn-kda-flink-auto-scaling/blob/main/arch1.png)
 
 
  
 
 测试架构如下图：
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/walkingerica/awscn-kda-flink-auto-scaling/blob/main/arch2.png)
 
 
  
